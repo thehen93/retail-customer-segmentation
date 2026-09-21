@@ -26,6 +26,12 @@ This project analyzes an online retail dataset containing transactions from a UK
 - 3 distinct customer segments identified: Loyal High Spenders, Occasional Customers and Lost/Inactive Customers
 - Strong product associations found, particularly within matching product sets and design variants
 
+## Business Implications
+- **Loyal High Spenders:** prioritise retention, for example through loyalty rewards or early access to new products, since losing these customers would have the largest revenue impact.
+- **Occasional Customers:** targeted campaigns or personalised recommendations could encourage more frequent purchases.
+- **Lost/Inactive Customers:** win-back offers could re-engage some of them, while also looking at why they stopped buying.
+- **Product associations:** frequently co-purchased items could be used for bundling, cross-selling and recommendations at checkout.
+
 ## Libraries Used
 
 pandas, numpy, matplotlib, seaborn, scikit-learn, mlxtend
